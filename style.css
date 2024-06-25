@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#titulo{
+    text-align: center;
+    Width: 1024px;
+    Height: 300px;
+    Top:  206px;
+    Left: 662px;
+    margin-left: 180px;
+    text-align: center;
+    font-size: 70px;
+}
+
+#texto-superior{
+    Width: 1024px;
+    Height: 300px;
+    Top:  206px;
+    Left: 662px;
+    margin-left: 180px;
+    text-align: center;
+    font-size: 40px;
+
+    
+}
+#menu-superior{
+    background-color: rgb(22, 21, 21);
+    color: aliceblue;
+    text-align: center;
+}
+
+#menuiii{
+    background-color: #F9F9F9;
+    color:black;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 30px;
+    
+    Height:100px;
+    Left:656px;
+    text-align: center;
+    
+}
+
+#meio{
+    background-color: #FFFFFF;
+    color: black;
+    text-align: left;
+    grid-auto-flow: column;
+    display: flex;
+    Height: 720px
+}
+#loto{
+    margin-left: 100px;
+}
+
+#formulario{
+    text-align: center;
+
+}
+
+#tformulario{
+    text-align: center;
+
+}
+input{
+    width: 508px;
+height: 72px;
+top: 1661px;
+left: 466px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+margin: 15px;
+padding-left: 10px;
+
+}
+
+button{
+    width: 380px;
+    height: 70px;
+    background-color: #dd5f0b;
+    font-size: 20px;
+    
+
+    
+}
